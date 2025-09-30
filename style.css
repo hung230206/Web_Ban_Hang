@@ -1,0 +1,33 @@
+.mainHeader {
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #97BEC6;
+    
+    
+    
+}
+.nameweb {
+    
+    display: flex;
+    
+}
+
+.searchBox {
+    height: 50px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchBox input{
+    height: 40px;
+    width: 400px;
+    border-radius: 25px;
+    }
+.searchBox button {
+  background: transparent; 
+  border: none;           
+  
+}
