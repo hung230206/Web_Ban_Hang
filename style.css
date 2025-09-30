@@ -31,3 +31,10 @@
   border: none;           
   
 }
+.login {
+    display: flex;
+}
+.login a
+{
+    padding: 15px;
+}
